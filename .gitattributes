@@ -1,0 +1,5 @@
+Changelog.txt filter=lfs diff=lfs merge=lfs -text
+Novo[[:space:]]Documento[[:space:]]de[[:space:]]Texto.txt filter=lfs diff=lfs merge=lfs -text
+Novo[[:space:]]arquivo.txt filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+Teste[[:space:]]1 filter=lfs diff=lfs merge=lfs -text
